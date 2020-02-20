@@ -1,5 +1,4 @@
 # shortlab5
 STAT 302 Short Lab 5
 A line I wrote using the shell on my computer
-A line from RStudio
-a
+This is the line from RStudio
